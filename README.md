@@ -8,7 +8,7 @@ Wersje do pobrania:
 
 | Cecha                                           | Wartość             |
 |-------------------------------------------------|:-------------------:|
-| Ilość haseł                                     |             150 000 |
-| Ilość synonimów                                 |           2 300 000 |
+| Ilość haseł                                     |             150 356 |
+| Ilość synonimów (odmian)                        |           2 396 723 |
 | Aktualizacja bazy                               |          06.09.2019 |
 | Format StarDict                                 |          ✔          |
